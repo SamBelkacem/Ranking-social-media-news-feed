@@ -1,6 +1,6 @@
 ## Description
-Today, social media users are overwhelmed by a large number of updates displayed chronologically in their news feed. 
-Moreover, most updates are irrelevant. Ranking news feed updates by relevance has been proposed to help users catch up with the content they may find interesting. <br/>
+Today, social media users are overwhelmed by a large number of updates displayed chronologically in their news feed. Moreover, most updates are irrelevant. <br />
+Ranking news feed updates by relevance has been proposed to help users catch up with the content they may find interesting. <br/>
 For this matter, supervised learning models have been commonly used to predict relevance.  However, no comparative study was made to determine the most suitable models. <br />
 In this work, knowing that the effectiveness of the relevance prediction depends partly on the chosen model, 
 we select, analyze, and compare seven supervised learning algorithms applied to this case study. <br />
