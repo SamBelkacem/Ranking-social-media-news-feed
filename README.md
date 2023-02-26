@@ -7,7 +7,7 @@ we select, analyze, and compare seven supervised learning algorithms applied to 
 Extensive experimental results on Twitter highlight that choosing the most suitable supervised model is critical to ensure the effectiveness of the ranking process. Furthermore, the comparison results show that ensemble learning models such as Gradient Boosting and Random Forest are the most appropriate to predict the relevance of news feed updates.
 
 ## Python code
-The Python Jupyter Notebook to read and visualize the data and the code is available on [nbviewer](https://nbviewer.org/github/SamBelkacem/Ranking-news-feed-updates/blob/main/Comparison%20of%20supervised%20models.ipynb).
+The Python Jupyter Notebook to read and visualize the data and the code is available on [nbviewer](https://nbviewer.org/github/SamBelkacem/Ranking-social-media-news-feed/blob/main/Comparison%20of%20supervised%20models.ipynb).
 
 ## Citation
 If you want to use any part of this repository, please cite the following paper.
