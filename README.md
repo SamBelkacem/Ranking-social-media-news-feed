@@ -11,15 +11,21 @@ The Python Jupyter Notebook to read and visualize the data and the code is avail
 
 ## Class distribution
 
-![AI-ML-cheatsheets](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Class%20distribution.png)
+![Class distribution](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Class%20distribution.png)
 
 ## Input features
 
+![Input features](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/1-%20Input%20features.png)
+
 ## Feature distribution
+
+![Feature distribution](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/2-%20Feature%20distribution.png)
 
 ## Comparison of supervised models
 
 ## Feature importance
+
+![Feature importance](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/7-%20Feature%20importance.png)
 
 ## Citation
 If you want to use any part of this repository, please cite the following paper.
