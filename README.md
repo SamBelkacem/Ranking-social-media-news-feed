@@ -15,7 +15,7 @@ The Python Jupyter Notebook to read and visualize the data and the code is avail
 
 ## Input features
 
-![Input features](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/1-%20Input%20features.png)
+<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/1-%20Input%20features.png" alt="Input features" width="300">
 
 ## Feature distribution
 
