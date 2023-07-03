@@ -10,26 +10,30 @@ Extensive experimental results on Twitter highlight that choosing the most suita
 The Python Jupyter Notebook to read and visualize the data and the code is available on [nbviewer](https://nbviewer.org/github/SamBelkacem/Ranking-social-media-news-feed/blob/main/Comparison%20of%20supervised%20models.ipynb).
 
 ## Class distribution
-
 The distribution of the tweets in dataset by relevance (0: not relevant, 1: relevant).
 
 ![Class distribution](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Class%20distribution.png)
 
 ## Input features
-
 The input features that may influence the relevance of a given tweet to a given recipient user.
 
 <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/1-%20Input%20features.png" alt="Input features" width="650">
 
 ## Feature distribution
-
 The distribution of values for the different input features. 
 
 ![Feature distribution](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/2-%20Feature%20distribution.png)
 
 ## Comparison of supervised models
+To predict the relevance of tweets, we compared seven supervised learning algorithms: 
 
-To predict the relevance of tweets, we compared seven supervised learning algorithms: Gradient Boosting, Random Forest, Support Vector Machine, Decision Trees, Neural networks, Logistic Regression, and Naive Bayes.
+- Gradient Boosting
+- Random Forest
+- Support Vector Machine
+- Decision Trees
+- Neural networks
+- Logistic Regression
+- Naive Bayes
 
 <div style="text-align: center;">
   <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/4-%20Comparison%20of%20models.png" width="380" hspace="1"/>
@@ -42,8 +46,7 @@ To predict the relevance of tweets, we compared seven supervised learning algori
 </div>
 
 ## Feature importance
-
-We computed feature importance to see overall what feature is likely to have an importance when judging the relevance of tweets from users.
+We computed feature importance to see overall what features are likely to have an importance when judging the relevance of tweets by users.
 
 ![Feature importance](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/7-%20Feature%20importance.png)
 
