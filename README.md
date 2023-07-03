@@ -23,6 +23,16 @@ The Python Jupyter Notebook to read and visualize the data and the code is avail
 
 ## Comparison of supervised models
 
+<div style="text-align: center;">
+  <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/4-%20Comparison%20of%20models.png" width="380" hspace="1"/>
+  <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/5-%20Comparison%20of%20models.png" width="380"/>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/3-%20Comparison%20of%20models.png" width="380" hspace="1"/>
+  <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/6-%20Comparison%20of%20models.png" width="380"/>
+</div>
+
 ## Feature importance
 
 ![Feature importance](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/7-%20Feature%20importance.png)
