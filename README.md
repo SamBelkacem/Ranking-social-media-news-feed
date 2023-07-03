@@ -25,7 +25,7 @@ The distribution of values for the different input features.
 ![Feature distribution](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/2-%20Feature%20distribution.png)
 
 ## Comparison of supervised models
-To predict the relevance of tweets, we compared seven supervised learning algorithms: 
+To predict the relevance of tweets, we trained and compared seven supervised learning algorithms: 
 
 - Gradient Boosting
 - Random Forest
