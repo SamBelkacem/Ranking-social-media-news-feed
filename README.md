@@ -27,13 +27,13 @@ The distribution of values for the different input features.
 ## Comparison of supervised models
 To predict the relevance of tweets, we trained and compared seven supervised learning algorithms: 
 
-- Gradient Boosting
-- Random Forest
-- Support Vector Machine
-- Decision Trees
-- Neural networks
-- Logistic Regression
-- Naive Bayes
+- Gradient Boosting (GB)
+- Random Forest (RF)
+- Support Vector Machine (SVM)
+- Decision Trees (DT)
+- Neural networks (ANN)
+- Logistic Regression (LR)
+- Naive Bayes (NB)
 
 <div style="text-align: center;">
   <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/4-%20Comparison%20of%20models.png" width="380" hspace="1"/>
