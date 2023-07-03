@@ -9,6 +9,18 @@ Extensive experimental results on Twitter highlight that choosing the most suita
 ## Python code
 The Python Jupyter Notebook to read and visualize the data and the code is available on [nbviewer](https://nbviewer.org/github/SamBelkacem/Ranking-social-media-news-feed/blob/main/Comparison%20of%20supervised%20models.ipynb).
 
+## Class distribution
+
+![AI-ML-cheatsheets](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Class%20distribution.png)
+
+## Input features
+
+## Feature distribution
+
+## Comparison of supervised models
+
+## Feature importance
+
 ## Citation
 If you want to use any part of this repository, please cite the following paper.
 
