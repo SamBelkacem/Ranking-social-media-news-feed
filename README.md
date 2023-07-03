@@ -1,10 +1,10 @@
 ## Description
-Today, social media users are overwhelmed by a large number of updates displayed chronologically in their news feed. Moreover, most updates are irrelevant.
-Ranking news feed updates by relevance has been proposed to help users catch up with the content they may find interesting. <br/>
-For this matter, supervised learning models have been commonly used to predict relevance.  However, no comparative study was made to determine the most suitable models. <br />
+Today, social media users are overwhelmed by a large number of posts in their news feed. Moreover, most posts are irrelevant.
+Ranking news feed posts by relevance has been proposed to help users catch up with the content they may find interesting. <br/>
+For this matter, supervised learning models have been commonly used to predict relevance. However, no comparative study was made to determine the most suitable models. <br />
 In this work, knowing that the effectiveness of the relevance prediction depends partly on the chosen model, 
-we select, analyze, and compare seven supervised learning algorithms applied in this case study. <br />
-Extensive experimental results on Twitter highlight that choosing the most suitable supervised model is critical to ensure the effectiveness of the ranking process. Furthermore, the comparison results show that ensemble learning models such as Gradient Boosting and Random Forest are the most appropriate to predict the relevance of news feed updates.
+we select, train, and compare seven supervised learning algorithms applied in this case study. <br />
+Extensive experimental results on Twitter highlight that choosing the most suitable supervised model is critical to ensure the effectiveness of the ranking process. Furthermore, the comparison results show that ensemble learning models such as Gradient Boosting and Random Forest are the most appropriate to predict the relevance of news feed posts.
 
 ## Python code
 The Python Jupyter Notebook to read and visualize the data and the code is available on [nbviewer](https://nbviewer.org/github/SamBelkacem/Ranking-social-media-news-feed/blob/main/Comparison%20of%20supervised%20models.ipynb).
