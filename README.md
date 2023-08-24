@@ -12,7 +12,7 @@ The Python Jupyter Notebook to read and visualize the data and the code is avail
 ## Class distribution
 The distribution of the tweets in the dataset by relevance (0: not relevant, 1: relevant).
 
-![Class distribution](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Class%20distribution.png)
+![Class distribution](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/1-%20Class%20distribution.png)
 
 ## Input features
 The input features that may influence the relevance of a given tweet to a given recipient user.
