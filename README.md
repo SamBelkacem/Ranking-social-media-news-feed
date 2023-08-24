@@ -15,6 +15,10 @@ To rank the news feed, supervised prediction models have been proposed predict t
 ## Dataset
 We randomly selected 46 Twitter users. Then, we collected data over ten months using Twitter Rest API and simulated the news feed of each user. This resulted in 26180 tweets as well as a 35% interaction rate with tweets and an average of 569 tweets as training data instances for each user.
 
+<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Dataset%20preview.png" alt="Dataset preview" width="500">
+
+<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Statistical%20description%20of%20the%20data.png" alt="Statistical description of the data" width="500">
+
 
 ## Python code
 The Python Jupyter Notebook to read and visualize the data and the code is available on [nbviewer](https://nbviewer.org/github/SamBelkacem/Ranking-social-media-news-feed/blob/main/Comparison%20of%20supervised%20models.ipynb).
