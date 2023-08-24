@@ -10,12 +10,12 @@ Extensive experimental results on Twitter highlight that choosing the most suita
 
 To rank the news feed, supervised prediction models have been proposed predict the relevance of news feed posts. These models analyze labelled training data of tweets users read in the past to predict if they will find a tweet relevant in the future.
 
-<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Prediction%20of%20a%20relevance%20score.png" alt="Prediction of a relevance score" width="500">
+<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Prediction%20of%20a%20relevance%20score.png" alt="Prediction of a relevance score" width="900">
 
 ## Dataset
 We randomly selected 46 Twitter users. Then, we collected data over ten months using Twitter Rest API and simulated the news feed of each user. This resulted in 26180 tweets as well as a 35% interaction rate with tweets and an average of 569 tweets as training data instances for each user.
 
-<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Dataset%20preview.png" alt="Dataset preview" width="500">
+<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Dataset%20preview.png" alt="Dataset preview" width="900">
 
 <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Statistical%20description%20of%20the%20data.png" alt="Statistical description of the data" width="500">
 
