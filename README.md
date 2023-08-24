@@ -19,6 +19,8 @@ We randomly selected 46 Twitter users. Then, we collected data over ten months u
 
 <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Statistical%20description%20of%20the%20data.png" alt="Statistical description of the data" width="900">
 
+The full dataset is available [here](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/all_data.csv) in this repostiry.
+
 ## Python code
 The Python Jupyter Notebook to read and visualize the data and the code is available on [nbviewer](https://nbviewer.org/github/SamBelkacem/Ranking-social-media-news-feed/blob/main/Comparison%20of%20supervised%20models.ipynb).
 
