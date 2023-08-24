@@ -10,7 +10,7 @@ Extensive experimental results on Twitter highlight that choosing the most suita
 
 To rank the news feed, supervised prediction models have been proposed predict the relevance of news feed posts. These models analyze labelled training data of posts users read in the past to predict if they will find a post relevant in the future.
 
-![Prediction of a relevance score](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Prediction%20of%20a%20relevance%20score.png)
+<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Prediction%20of%20a%20relevance%20score.png" alt="Prediction of a relevance score" width="650">
 
 ## Python code
 The Python Jupyter Notebook to read and visualize the data and the code is available on [nbviewer](https://nbviewer.org/github/SamBelkacem/Ranking-social-media-news-feed/blob/main/Comparison%20of%20supervised%20models.ipynb).
