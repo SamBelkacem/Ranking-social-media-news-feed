@@ -12,6 +12,11 @@ To rank the news feed, supervised prediction models have been proposed to predic
 
 <img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/0-%20Prediction%20of%20a%20relevance%20score.png" alt="Prediction of a relevance score" width="500">
 
+## Input features
+The input features that may influence the relevance of a given tweet to a given recipient user.
+
+<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/1-%20Input%20features.png" alt="Input features" width="650">
+
 ## Dataset
 We randomly selected 46 Twitter users. Then, we collected data over ten months using Twitter Rest API and simulated the news feed of each user. This resulted in 26180 tweets as well as a 35% interaction rate with tweets and an average of 569 tweets as training data instances for each user.
 
@@ -28,11 +33,6 @@ The Python Jupyter Notebook to read and visualize the data and the code is avail
 The distribution of the tweets in the dataset by relevance (0: not relevant, 1: relevant).
 
 ![Class distribution](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/1-%20Class%20distribution.png)
-
-## Input features
-The input features that may influence the relevance of a given tweet to a given recipient user.
-
-<img src="https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/1-%20Input%20features.png" alt="Input features" width="650">
 
 ## Feature distribution
 The distribution of values for the different input features. 
