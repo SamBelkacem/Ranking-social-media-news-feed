@@ -68,17 +68,21 @@ We computed feature importance to see, overall, what features are likely to have
 ![Feature importance](https://github.com/SamBelkacem/Ranking-social-media-news-feed/blob/main/Images/7-%20Feature%20importance.png)
 
 ## Citation
-If you want to use any part of this repository, please cite the following paper.
+If you want to use any part of this repository, please cite the following thesis.
 
 ```
-@inproceedings{belkacem_ranking_2020,
-	title = {Ranking news feed updates on social media: {A} comparative study of supervised models},
-	volume = {36},
-	booktitle = {{EGC} - {Conference} on {Knowledge} {Extraction} and {Management}},
-	publisher = {Revue des Nouvelles Technologies de l'Information},
-	author = {Belkacem, Sami and Boussaid, Omar and Boukhalfa, Kamel},
-	year = {2020},
-	pages = {499--506}
+@phdthesis{belkacem:tel-03201363,
+  TITLE = {{Machine learning approaches to rank news feed updates on social media}},
+  AUTHOR = {Belkacem, Sami},
+  URL = {https://theses.hal.science/tel-03201363},
+  SCHOOL = {{Universit{\'e} des Sciences et de la Technologie Houari Boumediene Alger}},
+  YEAR = {2021},
+  MONTH = Apr,
+  KEYWORDS = {Social network Analysis SNA ; Machine learning ML ; News Feed ; Relevance prediction ; Analyse des r{\'e}seaux sociaux SNA ; Apprentissage Automatique ; Flux d'information ; Pr{\'e}diction de la pertinence},
+  TYPE = {Theses},
+  PDF = {https://theses.hal.science/tel-03201363/file/Thesis.pdf},
+  HAL_ID = {tel-03201363},
+  HAL_VERSION = {v1},
 }
 ```
 
